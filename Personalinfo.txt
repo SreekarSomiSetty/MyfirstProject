@@ -10,3 +10,6 @@ temenos is a bacnking software solution company
 
 
 Thank u
+
+
+Main version done
